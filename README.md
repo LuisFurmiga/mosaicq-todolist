@@ -151,8 +151,7 @@ npm test
 ---
 
 ## 🛠 **Diagrama de Arquitetura**
-📀
-![Fluxo de Dados](docs/fluxo_de_dados.png){width=600}
+<img src="docs/fluxo_de_dados.png" alt="Fluxo de Dados" width="600"/>
 
 ---
 

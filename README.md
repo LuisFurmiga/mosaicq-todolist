@@ -155,7 +155,7 @@ npm test
 
 ---
 
-## 🖥️ Frontend - Aplicação Web
+# 🖥️ Frontend - Aplicação Web
 
 A aplicação frontend foi desenvolvida utilizando **React.js** e tem como objetivo fornecer uma interface intuitiva para gerenciar tarefas de forma eficiente. A aplicação se conecta à API backend para permitir autenticação, criação, edição, exclusão e listagem de tarefas.
 
